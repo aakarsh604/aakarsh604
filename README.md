@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aakarsh604@gmail.com**
 
-- 🔭 Visit my [portfolio]("https://aakarsh-portfolio.netlify.app/")
+- 🔭 Visit my <a href="https://aakarsh-portfolio.netlify.app/"><strong>portfolio</strong></a>
 
 - ⚡ Fun fact **I love to read and enjoy going on road trips**
 
@@ -30,11 +30,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakarsh604" alt="aakarsh604" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakarsh-devadiga-416a901a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-devadiga-416a901a5" height="30" width="40" /></a>
 <a href="https://instagram.com/a_aakarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_aakarsh" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <br/>
