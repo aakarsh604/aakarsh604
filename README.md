@@ -1,16 +1,32 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Aakarsh Devadiga  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+
+<br/> 
+
 <h3 align="center">- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
+
+<br/>
+
 <img alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
+
+<br/>
 
 <h3> 🙋‍♂️ About Me </h3>
 
 - 🌱 I’m currently learning **React, Redux, Express, MongoDB**
 
-- 💬 Ask me about **JavaScript, MERN Stack**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express**
 
 - 📫 How to reach me **aakarsh604@gmail.com**
 
-- ⚡ Fun fact **I love to Read and Travel**
+- 🔭 Visit my [portfolio]("https://aakarsh-portfolio.netlify.app/")
+
+- ⚡ Fun fact **I love to read and enjoy going on road trips**
+
+
+
+<br/>
+<br/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakarsh604" alt="aakarsh604" /></a> </p>
 
